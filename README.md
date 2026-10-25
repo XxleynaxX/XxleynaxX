@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kiyasha-logo.png" alt="Kiyasha Logo" width="180"/>
+  <img src="kiyasha-logo.png" alt="Kiyasha Logo" width="280"/>
 </p>
 
 <br>
