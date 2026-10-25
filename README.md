@@ -1,5 +1,10 @@
-# 🦊 Kiyasha's little den
+<p align="center">
+  <img src="kiyasha-logo.png" alt="Kiyasha Logo" width="180"/>
+</p>
 
+<br>
+
+# 🦊 Kiyasha's little den
 > *„Pssst... du hast tatsächlich in meinen Fuchsbau gefunden.“* 🌙
 
 Welcome to my little corner of GitHub.  
